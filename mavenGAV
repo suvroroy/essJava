@@ -1,0 +1,5 @@
+<dependency>
+  <groupId>com.hyperion.cp</groupId>
+  <artifactId>cpld</artifactId>
+  <version>11.1.2.2.100</version>
+</dependency>
